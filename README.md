@@ -2,7 +2,7 @@
 
 A modern, animated accordion component built with React, Vite, and Tailwind CSS. Features smooth animations, elegant transitions, and a responsive design.
 
-![Accordion Demo](demo-screenshot.png) <!-- You can add a screenshot of your component here -->
+![Accordion Component Demo](./src/assets/Accordion.png)
 
 [https://roadmap.sh/projects/accordion](https://roadmap.sh/projects/accordion)
 
